@@ -1,1 +1,1 @@
-# formula-resolvente-
+# formula-resolvente
